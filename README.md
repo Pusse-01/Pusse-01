@@ -67,8 +67,7 @@
 
 ### 🎮 Fun Fact
 
-> "I’m the kind of person who rearranges my entire desk just to find my headphones… which were on my head the whole time. 🎧🙃"
+> I’m the kind of person who rearranges my entire desk just to find my headphones… which were on my head the whole time. 🎧🙃
 
 ---
 
-🚀 _This profile README was generated with passion!_ 🔥
