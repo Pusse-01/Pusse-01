@@ -1,6 +1,4 @@
-## ✨ Welcome to my code cave—where AI takes shape, bugs get squashed, and late-night ideas turn into reality. 🚀
-
-![Banner](https://raw.githubusercontent.com/Pusse-01/main/banner.png)
+## Welcome to my code cave—where AI takes shape, bugs get squashed, and late-night ideas turn into reality.
 
 ### 👋 Hi, I'm **Nirodya Pussadeniya**
 
@@ -44,7 +42,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pusse-01&theme=radical" alt="Streak Stats"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pusse-01&theme=radical" alt="Streak Stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pusse-01&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pusse-01&theme=radical" alt="Top Languages"/>
 </div>
