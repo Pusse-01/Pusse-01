@@ -1,4 +1,4 @@
-## 🚀 Welcome to My GitHub Profile
+## ✨ Welcome to my code cave—where AI takes shape, bugs get squashed, and late-night ideas turn into reality. 🚀
 
 ![Banner](https://raw.githubusercontent.com/Pusse-01/main/banner.png)
 
@@ -69,7 +69,7 @@
 
 ### 🎮 Fun Fact
 
-> "I once built an AI model to automate my work, but now I spend more time debugging it than doing actual work. 🤖🔥" 
+> "I’m the kind of person who rearranges my entire desk just to find my headphones… which were on my head the whole time. 🎧🙃"
 
 ---
 
