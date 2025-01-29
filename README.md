@@ -63,7 +63,7 @@
 
 ### 📊 Weekly Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pusse-01&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pusse-01&theme=react-dark)
 
 ---
 
