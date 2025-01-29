@@ -43,6 +43,7 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pusse-01&theme=radical" alt="Streak Stats"/> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pusse-01&theme=radical)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=Pusse-01&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pusse-01&theme=radical" alt="Top Languages"/>
 </div>
