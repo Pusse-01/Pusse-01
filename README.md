@@ -1,4 +1,4 @@
-## Welcome to my code cave—where AI takes shape, bugs get squashed, and late-night ideas turn into reality.
+## Welcome to my code cave where AI takes shape, bugs get squashed, and late night ideas turn into reality.
 
 ### 👋 Hi, I'm **Nirodya Pussadeniya**
 
